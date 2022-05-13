@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<a href="https://github.com/kenissha"><img src="https://github-readme-stats.vercel.app/api?username=kenissha&show_icons=true&theme=radical"/></a>
+
+<a href="https://github.com/kenissha"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kenissha&theme=radical&hide_border=true" /></a>
+
+<a href="https://github.com/kenissha" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenissha&langs_count=8&theme=radical&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
