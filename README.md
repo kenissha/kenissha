@@ -1,28 +1,35 @@
 ## Selam! Ben Rıfat
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-  <a href="https://github.com/kenissha" style="text-decoration: none;">    
-  <img style="display: block;" height="180" src="https://github-readme-stats.vercel.app/api?username=kenissha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenissha&layout=compact&langs_count=16&theme=dracula"/>  
- 
-</div>
-
-<br>
+<table style="width:100%;">
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=kenissha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+           width="450" height="180" />
+    </td>
+    <td style="width:0%;">
+      </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenissha&layout=compact&langs_count=16&theme=dracula"/>
+    </td>
+  </tr>
+</table>
   
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=light" height="60" width="60" alt="Skills" />
   </a>
 </p>
-
+<img align="right" alt="Rafa-yoda" src="https://resmim.net/cdn/2023/03/06/UV8Tb.png" width="150" height="150">
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" height="150" width="150" alt="Skills" />
   </a>
 </p>
 
+
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-0078D7?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=white&style=flat)
+
+
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -38,7 +45,7 @@
            
           
  
-  <img align="right" alt="Rafa-yoda" src="https://resmim.net/cdn/2023/03/06/UV8Tb.png" width="150" height="150">
+  
 
 </div>
   
