@@ -2,13 +2,13 @@
 <table style="width:100%;">
   <tr>
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=kenissha&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"
+      <img src="https://github-readme-stats.vercel.app/api?username=kenissha&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"
            width="450" height="180" />
     </td>
     <td style="width:0%;">
       </td>
     <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenissha&layout=compact&langs_count=16&theme=kacho_ga"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenissha&layout=compact&langs_count=16&theme=gruvbox"/>
     </td>
   </tr>
 </table>
@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kenissha&theme=kacho-ga" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=kenissha&theme=gruvbox" alt="GitHub Streak" />
   </a>
 </p>
 
