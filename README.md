@@ -10,8 +10,12 @@
     <td align="right">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenissha&layout=compact&langs_count=16&theme=dracula"/>
     </td>
+    <td>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kenissha&theme=dark" alt="GitHub Streak" /></a>
+    </td>
   </tr>
 </table>
+
   
 <p align="left">
   <a href="https://skillicons.dev">
