@@ -2,19 +2,25 @@
 <table style="width:100%;">
   <tr>
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=kenissha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      <img src="https://github-readme-stats.vercel.app/api?username=kenissha&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"
            width="450" height="180" />
     </td>
     <td style="width:0%;">
       </td>
     <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenissha&layout=compact&langs_count=16&theme=dracula"/>
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kenissha&theme=dark" alt="GitHub Streak" /></a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenissha&layout=compact&langs_count=16&theme=shadow_red"/>
     </td>
   </tr>
 </table>
+
+<img align="right" alt="Rafa-yoda" src="https://resmim.net/cdn/2023/03/06/UV8Tb.png" width="200" height="200">
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kenissha&theme=shadow-red" alt="GitHub Streak" />
+  </a>
+</p>
+
 
   
 <p align="left">
@@ -22,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=light" height="60" width="60" alt="Skills" />
   </a>
 </p>
-<img align="right" alt="Rafa-yoda" src="https://resmim.net/cdn/2023/03/06/UV8Tb.png" width="150" height="150">
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" height="150" width="150" alt="Skills" />
