@@ -63,9 +63,11 @@
   
 
   </div>
-### 🐍 GitHub Snake
-
-![Snake animation](https://github.com/kenissha/kenissha/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kenissha/kenissha/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kenissha/kenissha/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://github.com/kenissha/kenissha/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
   
