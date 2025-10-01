@@ -3,7 +3,7 @@
 <table style="width:100%;">
   <tr>
     <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=kenissha&theme=gruvbox&include_all_commits=true&count_private=true"
+      <img src="https://github-readme-stats.vercel.app/api?username=kenissha&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true"
          width="450" height="180" />
     </td>
     <td style="width:0%;">
