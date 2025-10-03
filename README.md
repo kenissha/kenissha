@@ -1,5 +1,4 @@
 ## Selam! Ben Rıfat
-
 <table style="width:100%;">
   <tr>
     <td align="left">
@@ -9,7 +8,7 @@
     <td style="width:0%;">
       </td>
     <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenissha&layout=compact&langs_count=16&theme=gruvbox"/>
+      <img src="https://github-readme-stats2-pi-lemon.vercel.app/api/top-langs?username=kenissha&theme=gruvbox&layout=compact&count_private=true"/>
     </td>
   </tr>
 </table>
