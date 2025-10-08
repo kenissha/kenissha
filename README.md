@@ -15,13 +15,15 @@
 
 <img align="right" alt="Rafa-yoda" src="https://resmim.net/cdn/2023/03/06/UV8Tb.png" width="200" height="200">
 
+
+
 <p align="left">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=kenissha&theme=gruvbox" alt="GitHub Streak" />
   </a>
 </p>
 
-
+## 💻 Tech Stack
   
 <p align="left">
   <a href="https://skillicons.dev">
@@ -46,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,postman,swagger," height="150" width="150" alt="Skills" />
   </a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=kenissha&color=dracula" alt="Profile views" />
+
  
           
           
