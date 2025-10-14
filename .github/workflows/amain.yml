@@ -13,7 +13,7 @@ jobs:
         with:
           github_user_name: kenissha
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?color_snake=orange=FE8019&color_dots=282828,928374,FABD2F,FE8019,FB4934
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to GitHub
