@@ -1,4 +1,4 @@
-## Selam! Ben Rıfat....
+## Selam! Ben Rıfat
 <table style="width:100%;">
   <tr>
     <td align="left">
