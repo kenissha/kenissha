@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋 Ben Rıfat</h1>
+<h1 align="center">Merhaba 👋 Ben Rıfat</h1>.
 <h3 align="center">Full-Stack Developer | ASP.NET Core · React · TypeScript</h3>
 
 <p align="center">
