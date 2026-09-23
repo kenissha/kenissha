@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋 Ben Rıfat</h1>
-<h3 align="center">Full-Stack Developer | ASP.NET Core · React · TypeScript</h3>
+<h3 align="center">Full-Stack Developer | ASP.NET .......Core · React · TypeScript</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=D4A72C&center=true&vCenter=true&width=600&lines=Solo+full-stack+ownership+%E2%80%94+requirements+to+deployment;40%2B+module+enterprise+intranet+%40+ASP.NET+Core+%2B+React;Open+source+%C2%B7+iOS%2FReact+Native+%C2%B7+Unity" alt="Typing SVG" />
